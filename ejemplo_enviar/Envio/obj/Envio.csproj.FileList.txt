@@ -1,0 +1,9 @@
+bin\Debug\Envio.exe
+bin\Debug\Envio.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Envio.Form1.resources
+obj\Debug\Envio.Properties.Resources.resources
+obj\Debug\Envio.csproj.GenerateResource.Cache
+obj\Debug\Envio.exe
+obj\Debug\Envio.pdb
+obj\Debug\Envio.Form2.resources

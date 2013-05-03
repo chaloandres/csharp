@@ -1,0 +1,3 @@
+F:\DuocUC\Tercer Año\Primer Semestre\Taller de  Aplicaciones Avanzadas\Enviar\Envio\obj\Debug\Envio.exe
+F:\DuocUC\Tercer Año\Primer Semestre\Taller de  Aplicaciones Avanzadas\Enviar\Envio\obj\Debug\ResolveAssemblyReference.cache
+F:\DuocUC\Tercer Año\Primer Semestre\Taller de  Aplicaciones Avanzadas\Enviar\Envio\obj\Debug\Envio.csproj.GenerateResource.Cache

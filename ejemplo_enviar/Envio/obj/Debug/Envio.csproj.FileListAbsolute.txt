@@ -1,0 +1,17 @@
+G:\Codigos\Enviar\Envio\obj\Debug\Envio.exe
+G:\Codigos\Enviar\Envio\obj\Debug\ResolveAssemblyReference.cache
+G:\Codigos\Enviar\Envio\obj\Debug\Envio.Form1.resources
+G:\Codigos\Enviar\Envio\obj\Debug\Envio.Form2.resources
+G:\Codigos\Enviar\Envio\obj\Debug\Envio.Properties.Resources.resources
+G:\Codigos\Enviar\Envio\obj\Debug\GenerateResource.read.1.tlog
+G:\Codigos\Enviar\Envio\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\gonzalo\Desktop\Enviar\Envio\obj\Debug\Envio.exe
+C:\Users\gonzalo\Desktop\Enviar\Envio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\gonzalo\Desktop\Enviar\Envio\obj\Debug\Envio.Form1.resources
+C:\Users\gonzalo\Desktop\Enviar\Envio\obj\Debug\Envio.Form2.resources
+C:\Users\gonzalo\Desktop\Enviar\Envio\obj\Debug\Envio.Properties.Resources.resources
+C:\Users\gonzalo\Desktop\Enviar\Envio\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\gonzalo\Desktop\Enviar\Envio\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\gonzalo\Desktop\Enviar\Envio\bin\Debug\Envio.exe
+C:\Users\gonzalo\Desktop\Enviar\Envio\bin\Debug\Envio.pdb
+C:\Users\gonzalo\Desktop\Enviar\Envio\obj\Debug\Envio.pdb
